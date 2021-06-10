@@ -6,6 +6,7 @@
 - [编程规范](#编程规范)
 - [DDD](#DDD)
 - [服务部署](#服务部署)
+- [杂谈](#杂谈)
 
 ## 产品设计
 
@@ -25,3 +26,7 @@
 
 - [Docker — 从入门到实践](https://vuepress.mirror.docker-practice.com/)
 - [Amazon EKS中Ingress Controller架构选型](https://tech.recruit-mp.co.jp/infrastructure/post-19310/)
+
+## 杂谈
+
+- [计算机教育中缺失的一课](https://missing-semester-cn.github.io/)
