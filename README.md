@@ -6,6 +6,7 @@
 - [编程规范](#编程规范)
 - [DDD](#DDD)
 - [服务部署](#服务部署)
+- [开源框架](#开源框架)
 - [杂谈](#杂谈)
 
 ## 产品设计
@@ -26,6 +27,12 @@
 
 - [Docker — 从入门到实践](https://vuepress.mirror.docker-practice.com/)
 - [Amazon EKS中Ingress Controller架构选型](https://tech.recruit-mp.co.jp/infrastructure/post-19310/)
+
+## 开源框架
+
+- [ArchUnit 代码结构规范检查框架](https://www.archunit.org/)
+- [MapStruct 实体映射工具](https://mapstruct.org/)
+- [[云框架]基于Spring Cloud的微服务架构 v1.5](https://github.com/cloudframeworks-springcloud/user-guide-springcloud/blob/master/README_CN.md)
 
 ## 杂谈
 
