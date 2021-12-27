@@ -35,7 +35,7 @@
 - [[云框架]基于Spring Cloud的微服务架构 v1.5](https://github.com/cloudframeworks-springcloud/user-guide-springcloud/blob/master/README_CN.md)
 - [smart-doc 接口文档生成工具](https://gitee.com/smart-doc-team/smart-doc)
 - [jmolecules Java的体系结构抽象](https://github.com/xmolecules/jmolecules)
-- [AWS本地服务端](https://github.com/localstack/localstack)
+- [LocalStack AWS本地服务端](https://github.com/localstack/localstack)
 
 ## 杂谈
 
